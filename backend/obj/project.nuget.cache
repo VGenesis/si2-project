@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wk3Z/DAV6jA=",
+  "success": true,
+  "projectFilePath": "/mnt/hdd/home/vgen/Fax/si2/project/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/home/vgen/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
