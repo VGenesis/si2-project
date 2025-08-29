@@ -4,21 +4,21 @@
 
 ### Create Database
 -   Create the following data tables:
-    1.  Project
-    2.  Work Packet
-    3.  Task
-    4.  Activity
-    5.  Assignment Board
-    6.  Employee
-    7.  Employee Group
+    -   Project
+    -   Work Packet
+    -   Task
+    -   Activity
+    -   Assignment Board
+    -   Employee
+    -   Employee Group
 -   Create the following secondary tables:
-    1.  Project-Work Packet
-    2.  Work Packet - Task
-    3.  Task - Activity
-    4.  Assignment Board - Task
-    5.  Employee - Employee Group
-    6.  Employee - Task
-    7.  Employee Group - Task
+    -   Project-Work Packet
+    -   Work Packet - Task
+    -   Task - Activity
+    -   Assignment Board - Task
+    -   Employee - Employee Group
+    -   Employee - Task
+    -   Employee Group - Task
 
 ### Implement Backend
 -   Implement models for each DB table
